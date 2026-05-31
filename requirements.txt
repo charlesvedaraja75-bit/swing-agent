@@ -1,0 +1,10 @@
+yfinance
+pandas
+ta
+nsepython
+python-telegram-bot
+openai
+schedule
+feedparser
+transformers
+torch
