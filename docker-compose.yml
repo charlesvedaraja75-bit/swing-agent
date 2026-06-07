@@ -4,7 +4,4 @@ services:
     build:.
     env_file:telegram.env
     restart:unless-stopped
-    logging:
-      options:
-        max-size: "10m"
-        max-file: "3"
+
