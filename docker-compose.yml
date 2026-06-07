@@ -1,7 +1,7 @@
 version: '3'
 services:
   swing-bot:
-    build:.
-    env_file:telegram.env
-    restart:unless-stopped
+    build: .
+    env_file: telegram.env
+    restart: unless-stopped
 
